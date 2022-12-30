@@ -4,4 +4,4 @@ ecomwebsite/.elasticbeanstalk/*
 !ecomwebsite/.elasticbeanstalk/*.cfg.yml
 !ecomwebsite/.elasticbeanstalk/*.global.yml
 ecom
-.DS_Store
+.DS_Store/*
